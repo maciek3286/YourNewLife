@@ -1,3 +1,0 @@
-# YourNewLife
-
-Stare skrypty
