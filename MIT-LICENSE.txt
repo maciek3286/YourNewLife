@@ -1,4 +1,4 @@
-Copyright (c) 2014 Lukasz Biegaj <wielebny@bestplay.pl>
+Copyright (c) 2015 Maciek Krzysztoporski <maciek3286@wp.pl>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
